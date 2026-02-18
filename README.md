@@ -98,5 +98,6 @@ Both scripts were originally developed in **Google Colab** and use Google Drive 
 
 ## 👤 Author
 
-**Pranav** — Data Analyst | AI/ML Graduate Student at UT Austin McCombs  
+**Pranav Balaji** — Data Analyst | AI/ML Graduate Student at UT Austin McCombs
+*https://prabalaji95.github.io/*
 *Passionate about applying machine learning to solve real business problems in finance, operations, and consumer analytics.*
